@@ -6,6 +6,7 @@ A curated collection of freely accessible learning resources covering longitudin
 Topics include mixed-effects models, random intercepts and slopes, intraclass correlation coefficients, repeated-measures analysis and model interpretation.
 
 These resources include university course materials, statistical tutorials, worked examples, datasets and practical exercises using R, Stata and other statistical software.
+
 ### 1. Analyzing Longitudinal Data Using Multilevel Modeling
 
 **Provider:** UCLA Office of Advanced Research Computing  
@@ -26,7 +27,7 @@ A practical introduction to multilevel approaches for analysing repeated observa
 
 ### 2. An Introduction to Linear Mixed-Effects Modeling in R
 
-**Authors:** Violet A. Brown and colleagues  
+**Author:** Violet A. Brown
 **Level:** Beginner to intermediate  
 **Resource:** [Read the open-access tutorial](https://doi.org/10.1177/2515245920960351)  
 **Code and data:** [Access the OSF materials](https://osf.io/v6qag/)
