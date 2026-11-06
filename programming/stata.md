@@ -51,6 +51,8 @@ A practical guide to analysing complex survey data using Stata, with examples ba
 
 **Best for:** Researchers working with DHS, NHANES and other complex survey datasets.
 
+**Note:** This workshop was developed using Stata 15.1. Users of newer versions should check command compatibility.
+
 ### 5. Multiple Imputation in Stata
 
 **Provider:** UCLA Office of Advanced Research Computing  
