@@ -23,134 +23,30 @@ I have been sharing many of these resources on LinkedIn and created this reposit
 
 ---
 
+
 ## 📂 Explore the Resources
+
+Browse 70 curated resource entries across 11 categories, covering statistical programming, research methods and practical learning.
 
 ### 💻 Statistical Programming
 
-| Category | Description |
-|---|---|
-| [R Programming](#r-programming) | R tutorials, textbooks, practical exercises and health data analysis |
-| [Stata](#stata) | Stata courses, do-files, statistical modelling and practical examples |
-| [SAS](#sas) | SAS programming, clinical data analysis and statistical procedures |
-| [Python](#python) | Python programming, statistical analysis and healthcare applications |
+- [R Programming](programming/r.md) — 12 resources
+- [Stata](programming/stata.md) — 7 resources
+- [SAS](programming/sas.md) — 7 resources
+- [Python](programming/python.md) — 7 resources
 
-### 📊 Statistical Methods
+### 📊 Statistical & Research Methods
 
-| Category | Description |
-|---|---|
-| [Regression & Statistical Modelling](#regression--statistical-modelling) | Linear, logistic, Poisson and multilevel regression |
-| [Survival Analysis](#survival-analysis) | Kaplan–Meier, Cox regression and time-to-event analysis |
-| [Missing Data](#missing-data) | Missing-data mechanisms, multiple imputation and sensitivity analysis |
-| [Longitudinal & Multilevel Analysis](#longitudinal--multilevel-analysis) | Repeated measures, mixed models and hierarchical data |
-| [Epidemiology](#epidemiology) | Epidemiological methods and applied public health analysis |
-| [Research Methods](#research-methods) | Study design, sample size, statistical reporting and interpretation |
+- [Regression & Statistical Modelling](methods/regression.md) — 4 resources
+- [Survival Analysis](methods/survival.md) — 5 resources
+- [Missing Data](methods/missing-data.md) — 5 resources
+- [Longitudinal & Multilevel Analysis](methods/longitudinal-multilevel.md) — 5 resources
+- [Epidemiology](methods/epidemiology.md) — 5 resources
+- [Research Methods](methods/research-methods.md) — 7 resources
 
 ### 🎓 Teaching & Practical Resources
 
-Resources containing lecture notes, exercises, worked solutions, datasets, scripts and materials for classroom teaching or independent learning.
-
----
-
-## 📘 R Programming
-
-Explore 12 freely accessible R learning resources covering data management, visualisation, epidemiology, statistical modelling and health data science.
-
-**Includes:** Online textbooks, tutorials, practical exercises, datasets and reproducible R code.
-
-📚 **[Browse all R Programming Resources](programming/r.md)**
-  
-
-
-## 📗 Stata
-
-Explore seven freely accessible Stata learning resources covering statistical programming, data management, survival analysis, survey data analysis and multiple imputation.
-
-**Includes:** Tutorials, worked examples, annotated output, datasets and practical Stata code.
-
-📚 **[Browse all Stata Resources](programming/stata.md)**
-
-
-
-## 📙 SAS
-
-Explore seven freely accessible SAS learning resources covering statistical programming, logistic regression, survival analysis, complex survey data analysis and statistical output interpretation.
-
-**Includes:** Official training materials, tutorials, worked examples, statistical workshops and practical SAS code.
-
-📚 **[Browse all SAS Resources](programming/sas.md)**
-
-
-## 📕 Python
-
-Explore seven freely accessible Python learning resources covering statistical programming, data analysis, machine learning, survival analysis and clinical prediction.
-
-**Includes:** Online textbooks, tutorials, practical exercises, datasets and reproducible Python code.
-
-📚 **[Browse all Python Resources](programming/python.md)**
-
----
-
-## 📊 Regression & Statistical Modelling
-
-Explore four freely accessible resources covering linear regression, logistic regression, generalised linear models, statistical inference and model interpretation.
-
-**Includes:** University course materials, worked examples, statistical tutorials, datasets and annotated statistical output.
-
-📚 **[Browse all Regression & Statistical Modelling Resources](methods/regression.md)**
-
-
-## 📈 Survival Analysis
-
-Explore five freely accessible resources covering time-to-event analysis, Kaplan–Meier estimation, log-rank tests, Cox proportional hazards regression and model diagnostics.
-
-**Includes:** University course materials, statistical tutorials, worked examples, datasets and practical exercises using R, Stata, SAS and Python.
-
-📚 **[Browse all Survival Analysis Resources](methods/survival.md)**
-
-
-## 🧩 Missing Data
-
-Explore five freely accessible resources covering missing-data mechanisms (MCAR, MAR and MNAR), multiple imputation, missing-data diagnostics and practical approaches to handling incomplete datasets.
-
-**Includes:** Online textbooks, tutorials, worked examples, datasets and practical exercises using R, Stata and SAS.
-
-📚 **[Browse all Missing Data Resources](methods/missing-data.md)**
-
-## 📉 Longitudinal & Multilevel Analysis
-
-Explore five freely accessible resources covering longitudinal data analysis, repeated measurements, hierarchical data structures and multilevel statistical modelling.
-
-**Includes:** Tutorials, university course materials, worked examples, datasets and practical exercises covering mixed-effects models, random intercepts and slopes, and intraclass correlation coefficients.
-
-📚 **[Browse all Longitudinal & Multilevel Analysis Resources](methods/longitudinal-multilevel.md)**
-
-
-## 🌍 Epidemiology
-
-Explore five freely accessible resources covering epidemiological principles, study designs, measures of disease frequency and association, causal inference and practical epidemiological analysis.
-
-**Includes:** Online textbooks, public health training materials, tutorials, worked examples and practical R and Stata code.
-
-📚 **[Browse all Epidemiology Resources](methods/epidemiology.md)**
-
-
-## 🔬 Research Methods
-
-
-Explore seven freely accessible resources covering research design, sampling methods, sample size estimation, systematic reviews, research reporting guidelines and reproducible scientific research.
-
-**Includes:** University course materials, methodological guidelines, practical tools, worked examples and resources for preparing and reporting scientific studies.
-
-📚 **[Browse all Research Methods Resources](methods/research-methods.md)**
-
-
-## 🎓 Teaching & Practical Resources
-
-Explore six freely accessible resources designed to support teaching, practical learning and skills development in biostatistics, epidemiology and statistical programming.
-
-**Includes:** Teaching materials, statistical datasets, practical exercises, reproducible code, workshops and classroom-ready learning resources.
-
-📚 **[Browse all Teaching & Practical Resources](teaching/practical-resources.md)**
+- [Teaching & Practical Resources](teaching/practical-resources.md) — 6 resources
 
 ---
 
