@@ -81,8 +81,6 @@ Materials will not be redistributed unless their licences or the rights holders 
 
 ---
 
-## 🔄 Updates
-
 This collection will be updated periodically as new resources are identified and reviewed.
 
 ---
