@@ -120,7 +120,7 @@ A collection of practical Python tutorials for developing and evaluating machine
 
 **Best for:** Health researchers interested in clinical prediction modelling and healthcare machine learning.
 
-**Note:** Start with the current PyHealth tutorial series rather than older examples written for previous versions.
+**Note:** Start with the PyHealth 2.1 tutorial series. Some older examples may require adjustments to work with current versions.
 
 ### 7. scikit-learn: Practical Machine Learning Examples
 
