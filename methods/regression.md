@@ -22,6 +22,8 @@ An applied course covering the principles, assumptions, estimation and interpret
 
 **Best for:** Postgraduate students, researchers and lecturers teaching regression analysis.
 
+Examples primarily use Minitab, although the statistical concepts can be applied using R, Stata, SAS or Python.
+
 ### 2. Analysis of Discrete Data (STAT 504)
 
 **Provider:** Pennsylvania State University  
