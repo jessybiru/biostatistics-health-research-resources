@@ -2,9 +2,9 @@
 
 ### Free learning resources for biostatistics, epidemiology, statistical programming and health research
 
-Welcome to this repository!!
+Welcome to this repository!
 
-This is a curated collection of freely accessible textbooks, online courses, statistical tutorials, practical exercises, datasets, code examples and teaching materials.
+This is a collection of freely accessible textbooks, online courses, statistical tutorials, practical exercises, datasets, code examples and teaching materials.
 
 As a biostatistician and researcher, I regularly come across valuable learning resources that can help students, researchers and professionals strengthen their statistical and analytical skills.
 
