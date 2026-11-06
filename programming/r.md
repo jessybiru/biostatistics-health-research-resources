@@ -2,8 +2,6 @@
 
 Free textbooks, tutorials, datasets and practical exercises for learning R, with an emphasis on biostatistics, epidemiology and health research.
 
-## 📘 R Programming
-
 ### 1. R for Data Science (2nd Edition)
 
 **Authors:** Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund  
