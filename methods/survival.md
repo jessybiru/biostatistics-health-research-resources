@@ -7,7 +7,7 @@ Topics include Kaplan–Meier estimation, log-rank tests, Cox proportional hazar
 
 These resources include online course materials, tutorials, worked examples, datasets and practical exercises.
 
-### 1. Clinical Trials: Statistical Methods (STAT 509)
+### 1. Design and Analysis of Clinical Trials
 
 **Provider:** Pennsylvania State University  
 **Level:** Intermediate  
