@@ -99,10 +99,6 @@ Explore four freely accessible resources covering linear regression, logistic re
 📚 **[Browse all Regression & Statistical Modelling Resources](methods/regression.md)**
 
 
-
-## 📈 Survival Analysis
-
-
 ## 📈 Survival Analysis
 
 Explore five freely accessible resources covering time-to-event analysis, Kaplan–Meier estimation, log-rank tests, Cox proportional hazards regression and model diagnostics.
