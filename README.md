@@ -53,7 +53,45 @@ Resources containing lecture notes, exercises, worked solutions, datasets, scrip
 
 ## 📘 R Programming
 
-Resources will be added here.
+### 1. R for Data Science (2nd Edition)
+
+**Authors:** Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund  
+**Level:** Beginner to intermediate  
+**Resource:** [Read the free online book](https://r4ds.hadley.nz/)
+
+A practical introduction to working with data in R, covering data import, cleaning, transformation, visualisation and reproducible reporting.
+
+**Includes:** R code, worked examples, exercises and a companion exercise-solutions website.
+
+### 2. R for Health Data Science
+
+**Authors:** Ewen Harrison and Riinu Pius  
+**Level:** Beginner to intermediate  
+**Resource:** [Read the free online book](https://argoshare.is.ed.ac.uk/healthyr_book/)
+
+An applied introduction to R for healthcare professionals and health researchers. Covers data manipulation, visualisation, regression, survival analysis, missing data and reproducible reporting.
+
+**Includes:** Health-related examples, R code and practical demonstrations.
+
+### 3. The Epidemiologist R Handbook
+
+**Authors:** Neale Batra and contributing epidemiologists  
+**Level:** Beginner to intermediate  
+**Resource:** [Access the handbook](https://www.epirhandbook.com/en/)
+
+A task-oriented R reference for epidemiology and public health, with examples covering common epidemiological data management, analysis and reporting tasks.
+
+**Includes:** Example datasets, reproducible R code and an offline-access option.
+
+### 4. Introduction to R for Health Data Analysis
+
+**Authors:** Ehsan Karim, An Hoang and Yang Qu  
+**Level:** Beginner  
+**Resource:** [Read the online textbook](https://ehsanx.github.io/intro2R/)
+
+An introduction to R programming and data wrangling using the National Health and Nutrition Examination Survey (NHANES).
+
+**Includes:** Health survey examples, R code and practical learning activities.
 
 ## 📗 Stata
 
