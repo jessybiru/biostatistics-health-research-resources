@@ -27,7 +27,7 @@ A foundational introduction to applied epidemiology and biostatistics for public
 
 **Best for:** Students, field epidemiologists, public health practitioners and researchers beginning epidemiological training.
 
-**Note:** This is an established but older edition; consult current public health guidance when applying surveillance or outbreak response procedures.
+**Note:** This 2006 edition has been superseded by a newer CDC version. It remains useful for foundational epidemiological concepts, but readers should consult updated CDC guidance for current public health practice.
 
 ### 2. Foundations of Epidemiology
 
