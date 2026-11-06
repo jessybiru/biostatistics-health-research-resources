@@ -26,27 +26,27 @@ I have been sharing many of these resources on LinkedIn and created this reposit
 
 ## 📂 Explore the Resources
 
-Browse 70 curated resource entries across 11 categories, covering statistical programming, research methods and practical learning.
+Browse over 70 curated resource entries across 11 categories, covering statistical programming, research methods and practical learning.
 
 ### 💻 Statistical Programming
 
-- [R Programming](programming/r.md) — 12 resources
-- [Stata](programming/stata.md) — 7 resources
-- [SAS](programming/sas.md) — 7 resources
-- [Python](programming/python.md) — 7 resources
+- [R Programming](programming/r.md) 
+- [Stata](programming/stata.md) 
+- [SAS](programming/sas.md) 
+- [Python](programming/python.md) 
 
 ### 📊 Statistical & Research Methods
 
-- [Regression & Statistical Modelling](methods/regression.md) — 4 resources
-- [Survival Analysis](methods/survival.md) — 5 resources
-- [Missing Data](methods/missing-data.md) — 5 resources
-- [Longitudinal & Multilevel Analysis](methods/longitudinal-multilevel.md) — 5 resources
-- [Epidemiology](methods/epidemiology.md) — 5 resources
-- [Research Methods](methods/research-methods.md) — 7 resources
+- [Regression & Statistical Modelling](methods/regression.md)
+- [Survival Analysis](methods/survival.md) 
+- [Missing Data](methods/missing-data.md) 
+- [Longitudinal & Multilevel Analysis](methods/longitudinal-multilevel.md) 
+- [Epidemiology](methods/epidemiology.md) 
+- [Research Methods](methods/research-methods.md) 
 
 ### 🎓 Teaching & Practical Resources
 
-- [Teaching & Practical Resources](teaching/practical-resources.md) — 6 resources
+- [Teaching & Practical Resources](teaching/practical-resources.md) 
 
 ---
 
