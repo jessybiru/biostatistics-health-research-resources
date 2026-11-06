@@ -34,7 +34,7 @@ A comprehensive course designed for experienced R users who want to apply their 
 
 **Best for:** Researchers, statisticians and data analysts transitioning from R to SAS.
 
-**Note:** Some older setup instructions refer to SAS University Edition, which has been discontinued. Learners can explore SAS OnDemand for Academics instead.
+**Note:** Some older setup instructions refer to SAS University Edition, which has been discontinued. Learners can explore SAS OnDemand for Academics instead.  Also Workshop examples were developed using SAS 9.4 and SAS/STAT 15.2. Users should check compatibility with their installed versions.
 
 ### 3. Introduction to Survival Analysis in SAS
 
